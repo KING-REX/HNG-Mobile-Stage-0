@@ -50,15 +50,11 @@ cd simpleui
 ## 📱 Live Demo on Appetize.io
 
 Test the app directly in your browser:  
-[Live Demo](https://appetize.io/app/demo-link)
+[Live Demo](https://appetize.io/app/b_krahx63pwxpgxmslgqrsu6tht4)
 
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
-## 👥 Contributing
-
-Interested in contributing? Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## ✨ Acknowledgements
 
